@@ -1,0 +1,8 @@
+C:\LMS(WEB)\LMS(WEB)\bin\LMS(WEB).dll
+C:\LMS(WEB)\LMS(WEB)\bin\LMS(WEB).pdb
+C:\LMS(WEB)\LMS(WEB)\bin\LMS(WEB).xml
+C:\LMS(WEB)\LMS(WEB)\obj\Debug\LMS_WEB_.Resources.resources
+C:\LMS(WEB)\LMS(WEB)\obj\Debug\LMS(WEB).vbproj.GenerateResource.Cache
+C:\LMS(WEB)\LMS(WEB)\obj\Debug\LMS(WEB).dll
+C:\LMS(WEB)\LMS(WEB)\obj\Debug\LMS(WEB).xml
+C:\LMS(WEB)\LMS(WEB)\obj\Debug\LMS(WEB).pdb
